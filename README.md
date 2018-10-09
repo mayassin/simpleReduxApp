@@ -1,3 +1,4 @@
+#A simple Redux app from the amazing [Stephen Grider](https://github.com/stephengrider)
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
